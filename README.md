@@ -15,7 +15,7 @@ git clone https://github.com/HarshKorde5/youtube_ad_skip.git
 - In Firefox, go to `about:debugging#/runtime/this-firefox` page -> click `Load Temporary Add-on...` button -> select `manifest.json` file in the extension's directory.
 - In Google Chrome, go to `chrome://extensions/` page -> check `Developer mode` -> Click `Load unpacked` and select the extension folder `youtube_ad_skip`
 
-**Consider [Notes](https://github.com/HarshKorde5/youtube_ad_skip/blob/main/notes.md) File for further information on working**
+**Consider [Notes](https://github.com/pranavmaske03/yt-ad-skip/blob/main/notes.md) file for further information on working**
 
 **Disclaimer**
 
@@ -28,9 +28,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 **Contact**
 
-📧 Email: harshkorde05@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/harshkorde](https://www.linkedin.com/in/harshkorde)
+📧 Email: pranavbmaske@gmail.com 
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
